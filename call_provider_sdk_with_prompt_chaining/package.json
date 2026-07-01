@@ -1,0 +1,15 @@
+{
+  "name": "bank-customer-support-prompt-chain",
+  "version": "1.0.0",
+  "description": "Five-step prompt chain for bank customer support classification and response generation.",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7"
+  }
+}
