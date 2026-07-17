@@ -1,0 +1,24 @@
+You are a senior software requirements analyst.
+
+Client project description:
+{client_description}
+
+Stage 1 analysis:
+{stage1_output}
+
+Selected category:
+{stage3_output}
+
+Missing requirements:
+{stage4_output}
+
+Task:
+Produce a short initial project assessment for internal consulting use.
+
+Include these sections:
+- Selected category
+- Summary of the client's request
+- Missing information
+- Recommended next steps
+
+Keep the assessment concise, professional, and actionable.

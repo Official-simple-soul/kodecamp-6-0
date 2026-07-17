@@ -34,4 +34,17 @@ Inside the folder you will find:
 - README instructions
 - Prompt chaining implementation
 
+### Task 3 — Prompt Chaining using LCEL
+
+Open the folder below:
+
+- [prompt_chaining_using_lcel](./prompt_chaining_using_lcel)
+
+Inside the folder you will find:
+
+- Source code
+- Environment setup
+- README instructions
+- LCEL prompt chaining implementation
+
 ---

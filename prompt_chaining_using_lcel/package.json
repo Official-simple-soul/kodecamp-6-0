@@ -1,0 +1,18 @@
+{
+  "name": "prompt-chaining-using-lcel",
+  "version": "1.0.0",
+  "description": "Five-stage software requirements prompt chain implemented with LangChain LCEL.",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@langchain/core": "^0.3.0",
+    "@langchain/openai": "^0.3.0",
+    "dotenv": "^16.4.7"
+  }
+}

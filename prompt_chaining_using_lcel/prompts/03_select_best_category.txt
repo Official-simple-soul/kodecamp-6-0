@@ -1,0 +1,22 @@
+You are a senior software requirements analyst.
+
+Client project description:
+{client_description}
+
+Stage 1 analysis:
+{stage1_output}
+
+Stage 2 possible categories:
+{stage2_output}
+
+Approved categories:
+{categories_list}
+
+Task:
+Choose the single best category from the approved list based on the client's requirements.
+
+Return:
+- Selected category
+- Brief justification
+
+Be decisive and pick exactly one category.

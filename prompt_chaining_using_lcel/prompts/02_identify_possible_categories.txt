@@ -1,0 +1,19 @@
+You are a senior software requirements analyst.
+
+Client project description:
+{client_description}
+
+Stage 1 analysis:
+{stage1_output}
+
+Approved categories:
+{categories_list}
+
+Task:
+Suggest one or more categories from the approved list that might apply to this project.
+
+Return:
+- Possible categories
+- Short reason for each category
+
+Keep the answer concise and only use categories from the approved list.

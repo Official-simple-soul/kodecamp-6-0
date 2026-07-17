@@ -1,0 +1,27 @@
+You are a senior software requirements analyst.
+
+Client project description:
+{client_description}
+
+Stage 1 analysis:
+{stage1_output}
+
+Selected category:
+{stage3_output}
+
+Task:
+Identify the important information that is missing and would be required before implementation can begin.
+
+Focus on the most useful questions to ask next, such as:
+- Target users
+- Platform (web, mobile, desktop, API)
+- Authentication requirements
+- Integration requirements
+- Data storage requirements
+- Performance or scalability requirements
+
+Return:
+- Missing requirements
+- Why each item matters
+
+Keep the answer practical and specific to this project.
