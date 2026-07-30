@@ -47,4 +47,17 @@ Inside the folder you will find:
 - README instructions
 - LCEL prompt chaining implementation
 
+### Task 4 — Build Semantic-Chunking RAG System
+
+Open the folder below:
+
+- [build_semantic_chunking_rag_system](./build_semantic_chunking_rag_system)
+
+Inside the folder you will find:
+
+- Source code
+- Environment setup
+- README instructions
+- Node.js RAG implementation with semantic chunking, ChromaDB, HuggingFace embeddings, and Gemini Flash
+
 ---

@@ -1,0 +1,22 @@
+{
+  "name": "build-semantic-chunking-rag-system",
+  "version": "1.0.0",
+  "description": "Semantic-chunking RAG system with HuggingFace embeddings, ChromaDB, and Gemini Flash.",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@huggingface/inference": "^3.8.0",
+    "chromadb": "^3.5.0",
+    "dotenv": "^16.4.7",
+    "express": "^5.1.0",
+    "mammoth": "^1.10.0",
+    "multer": "^2.0.2",
+    "pdf-parse": "^1.1.1"
+  }
+}
