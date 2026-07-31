@@ -1,0 +1,17 @@
+{
+  "name": "building-tools-for-an-llm",
+  "version": "1.0.0",
+  "description": "Tool-calling demo for flight schedules, hotel schedules, and currency conversion using OpenAI SDK with OpenRouter.",
+  "type": "module",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "openai": "^6.49.0"
+  }
+}

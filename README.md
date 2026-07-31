@@ -60,4 +60,17 @@ Inside the folder you will find:
 - README instructions
 - Node.js RAG implementation with semantic chunking, ChromaDB, HuggingFace embeddings, and Gemini Flash
 
+### Task 5 — Building Tools for an LLM
+
+Open the folder below:
+
+- [building_tools_for_an_llm](./building_tools_for_an_llm)
+
+Inside the folder you will find:
+
+- Source code
+- Environment setup
+- README instructions
+- Node.js tool-calling implementation using the OpenAI SDK and OpenRouter-compatible model
+
 ---
