@@ -73,4 +73,18 @@ Inside the folder you will find:
 - README instructions
 - Node.js tool-calling implementation using the OpenAI SDK and OpenRouter-compatible model
 
+### Task 6 — Tool Augmented RAG Agent using LangChain
+
+Open the folder below:
+
+- [tool_augmented_rag_agent_using_langchain](./tool_augmented_rag_agent_using_langchain)
+
+Inside the folder you will find:
+
+- Source code
+- Environment setup
+- README instructions
+- LangChain/LangGraph agent with hybrid RAG retrieval, tool calling, and
+  long-term conversation memory backed by ChromaDB
+
 ---

@@ -1,0 +1,5 @@
+KodeCamp Remote Work Policy
+
+Employees may work remotely up to 3 days per week with manager approval.
+Remote workdays must be logged in the internal HR portal by Friday each week.
+All remote employees must be reachable via Slack during core hours: 10am-4pm WAT.

@@ -1,0 +1,17 @@
+KodeCamp Travel Desk — Internal Handbook
+
+Conference Travel Policy
+All conference travel must be booked through the internal travel desk at least two weeks
+in advance. Economy class is the default for round-trip flights under 8 hours of total
+flight time. Hotel stays for conferences are capped at a mid-range rate and should not
+exceed 4 nights unless approved by a team lead.
+
+Expense Reporting
+Employees must submit expense reports within 5 business days of returning from a trip.
+Reports should include the total flight cost in USD, the total hotel cost in USD, and,
+if the employee was reimbursed in Naira, the converted NGN amount using the official
+conversion tool.
+
+Support Contacts
+For questions about travel bookings, contact the travel desk at travel@kodecamp.internal.
+For questions about reimbursement, contact finance@kodecamp.internal.
