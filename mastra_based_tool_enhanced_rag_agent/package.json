@@ -1,0 +1,37 @@
+{
+  "name": "mastra-based-tool-enhanced-rag-agent",
+  "version": "1.0.0",
+  "description": "Mastra TypeScript agent with tool-enhanced RAG, streaming CLI chat, and persistent conversation memory.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "cli": "tsx cli.ts",
+    "dev": "mastra dev",
+    "build": "mastra build",
+    "start": "mastra start",
+    "typecheck": "tsc --noEmit"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "@huggingface/inference": "^4.13.26",
+    "@mastra/core": "^1.58.0",
+    "@mastra/libsql": "^1.20.0",
+    "@mastra/loggers": "^1.2.0",
+    "@mastra/memory": "^1.26.1",
+    "@openrouter/ai-sdk-provider": "^3.0.0",
+    "ai": "^7.0.65",
+    "chromadb": "^3.5.0",
+    "dotenv": "^16.6.1",
+    "mammoth": "^1.12.1",
+    "pdf-parse": "^1.1.4",
+    "zod": "^3.25.76"
+  },
+  "devDependencies": {
+    "@types/node": "^22.20.1",
+    "mastra": "^1.24.0",
+    "tsx": "^4.23.12",
+    "typescript": "^5.9.3"
+  }
+}

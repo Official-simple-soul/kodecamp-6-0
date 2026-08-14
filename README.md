@@ -87,4 +87,18 @@ Inside the folder you will find:
 - LangChain/LangGraph agent with hybrid RAG retrieval, tool calling, and
   long-term conversation memory backed by ChromaDB
 
+### Task 7 — Mastra-Based Tool-Enhanced RAG Agent
+
+Open the folder below:
+
+- [mastra_based_tool_enhanced_rag_agent](./mastra_based_tool_enhanced_rag_agent)
+
+Inside the folder you will find:
+
+- Source code
+- Environment setup
+- README instructions
+- Mastra TypeScript agent with the same four tools (including hybrid RAG
+  retrieval), a streaming interactive CLI, and persistent conversation memory
+
 ---
