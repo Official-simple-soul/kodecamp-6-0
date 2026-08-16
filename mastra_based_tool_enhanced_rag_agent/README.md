@@ -111,3 +111,8 @@ build), `npm run typecheck` (type-check without emitting).
   `file:./mastra-memory.db`), gitignored. Delete it to start a fresh thread.
 - `MEMORY_THREAD_ID` / `MEMORY_RESOURCE_ID` control which persistent thread
   the CLI resumes — change them (or delete the DB file) to start over.
+- `nvidia/nemotron-3-nano-30b-a3b` is a reasoning model. The agent requests
+  `reasoning: { exclude: true }` from OpenRouter (`REASONING_EFFORT`, default
+  `low`) so its chain-of-thought is never returned in the response — without
+  this, any consumer of the agent (this CLI, `mastra dev`'s playground/API,
+  etc.) would see raw reasoning text instead of the final answer.
